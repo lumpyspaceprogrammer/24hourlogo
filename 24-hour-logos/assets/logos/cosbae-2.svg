@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
-      <rect width="1000" height="1000" rx="72" fill="#050505"/>
-      <defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c06bff"/><stop offset="1" stop-color="#ff78ad"/></linearGradient></defs>
-      <text x="500" y="535" text-anchor="middle" font-family="Georgia, serif" font-size="150" font-weight="700" fill="url(#p)">cosbae</text>
-      <circle cx="348" cy="472" r="8" fill="#ffd86d"/>
-      <path d="M330 454l18 18 18-18 18 18-18 18 18 18-18 18-18-18-18 18-18-18 18-18-18-18z" fill="#ffd86d"/>
-      <path d="M178 710c125-75 220-106 322-106 102 0 197 31 322 106" fill="none" stroke="#7f61ff" stroke-width="12" opacity=".55"/>
-      <path d="M250 740c80-46 153-66 250-66s170 20 250 66" fill="none" stroke="#ff78ad" stroke-width="10" opacity=".5"/>
-    </svg>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7d5bff"/><stop offset="1" stop-color="#ff78bd"/></linearGradient>
+  </defs>
+  <rect width="1000" height="1000" rx="72" fill="#050505"/>
+  <circle cx="500" cy="320" r="52" fill="#e87cff"/>
+  <circle cx="500" cy="320" r="12" fill="#050505"/>
+  <text x="500" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="146" font-weight="700" fill="url(#grad)">cosbae</text>
+</svg>

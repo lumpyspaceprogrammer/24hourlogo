@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
-      <rect width="1000" height="1000" rx="72" fill="#07070b"/>
-      <path d="M185 610C310 430 388 360 535 310c132-45 210-20 320 85" fill="none" stroke="url(#rainbow)" stroke-width="18" stroke-linecap="round"/>
-      <defs><linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5fe2ff"/><stop offset=".33" stop-color="#85ffb7"/><stop offset=".66" stop-color="#ffd26b"/><stop offset="1" stop-color="#ff86da"/></linearGradient></defs>
-      <g fill="#fff"><circle cx="290" cy="260" r="9"/><circle cx="335" cy="215" r="6"/><circle cx="396" cy="265" r="7"/><path d="M630 205l12 28 28 12-28 12-12 28-12-28-28-12 28-12z"/><path d="M745 250l9 20 20 9-20 9-9 20-9-20-20-9 20-9z"/></g>
-      <text x="500" y="480" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="150" fill="#7fdfff" stroke="#0d2f44" stroke-width="8" paint-order="stroke">cosbae</text>
-      <text x="500" y="585" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="4" fill="#d7f7ff">SHOP | CREATE | PLAY</text>
-      <text x="500" y="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#94b6c7" letter-spacing="2">sparkles, rainbows, and soft chaos</text>
-    </svg>
+  <rect width="1000" height="1000" rx="72" fill="#050505"/>
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+    <text x="500" y="470" font-size="130" font-style="italic" font-weight="700" fill="#8cdbff">cosbae</text>
+    <text x="500" y="560" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#d6d6d6">SHOP | CREATE | PLAY</text>
+  </g>
+  <path d="M700 300c55 15 75 45 85 85-38-28-72-22-104 8 2-46 3-75 19-93z" fill="none" stroke="#ffcd4d" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="697" cy="341" r="18" fill="#ffcd4d"/>
+</svg>

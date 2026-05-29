@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
-      <rect width="1000" height="1000" rx="72" fill="#0a0e17"/>
-      <rect x="240" y="705" width="520" height="80" rx="20" fill="#2c81ff"/>
-      <ellipse cx="500" cy="470" rx="210" ry="180" fill="#111" stroke="#1c1c1c" stroke-width="12"/>
-      <path d="M365 312c58-54 212-54 270 0" fill="none" stroke="#d7d7d7" stroke-width="14" stroke-linecap="round"/>
-      <path d="M325 425c0-92 74-165 175-165s175 73 175 165" fill="none" stroke="#d7d7d7" stroke-width="24" stroke-linecap="round"/>
-      <path d="M335 390h330" stroke="#8d6a00" stroke-width="16" stroke-linecap="round"/>
-      <circle cx="445" cy="455" r="16" fill="#d7d7d7"/><circle cx="555" cy="455" r="16" fill="#d7d7d7"/>
-      <circle cx="500" cy="565" r="24" fill="#d7d7d7"/>
-      <path d="M430 600c35 45 105 45 140 0" fill="none" stroke="#d7d7d7" stroke-width="10" stroke-linecap="round"/>
-      <path d="M390 265c70 0 220 0 300 0" stroke="#d7d7d7" stroke-width="10" stroke-linecap="round" opacity=".65"/>
-      <path d="M325 360l-75 160M675 360l75 160" stroke="#d7d7d7" stroke-width="10" opacity=".5"/>
-      <text x="500" y="860" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" letter-spacing="3" fill="#ffffff">CHANEL FOR SALE</text>
-    </svg>
+  <rect width="1000" height="1000" rx="72" fill="#7dc7ff"/>
+  <rect x="272" y="336" width="456" height="264" rx="20" fill="#0a2644"/>
+  <path d="M360 470h280" stroke="#f1d56a" stroke-width="26"/>
+  <path d="M360 470c0-78 62-140 140-140s140 62 140 140" fill="none" stroke="#f1d56a" stroke-width="26"/>
+  <text x="500" y="740" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" fill="#0a2644">CHANEL RE-SALE</text>
+</svg>
