@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+      <rect width="1000" height="1000" rx="72" fill="#050505"/>
+      <g transform="translate(500 470)">
+        <circle r="310" fill="none" stroke="#ae7cff" stroke-width="12" opacity=".22"/>
+        <circle r="250" fill="none" stroke="#ff5da8" stroke-width="12" opacity=".22"/>
+        <circle r="190" fill="none" stroke="#ae7cff" stroke-width="12" opacity=".22"/>
+        <circle r="130" fill="#ff67b3" opacity=".1"/>
+        <ellipse cx="0" cy="-25" rx="128" ry="165" fill="#f2c7a7"/>
+        <ellipse cx="0" cy="165" rx="95" ry="45" fill="#f2c7a7" opacity=".95"/>
+        <path d="M-155-65 Q0-180 155-65" fill="none" stroke="#f4d8bd" stroke-width="18" stroke-linecap="round"/>
+        <path d="M-110 5 Q0 -48 110 5 Q0 72 -110 5Z" fill="#f6fbff" stroke="#ff5da8" stroke-width="7"/>
+        <circle r="28" fill="#171717"/>
+        <circle r="11" cx="9" cy="-8" fill="#fff"/>
+        <circle r="16" cx="0" cy="-30" fill="#7df0ff" stroke="#111" stroke-width="5"/>
+        <path d="M-85 95 Q0 150 85 95" fill="none" stroke="#6b2d46" stroke-width="10" stroke-linecap="round"/>
+      </g>
+      <text x="500" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="104" font-weight="700" letter-spacing="6" fill="#ff66b3">RIDE OR DIE</text>
+      <text x="500" y="860" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="96" fill="#f0edf6">third eye</text>
+      <g stroke="#ff66b3" stroke-width="6" opacity=".85"><path d="M90 880h220"/><path d="M690 880h220"/></g>
+    </svg>

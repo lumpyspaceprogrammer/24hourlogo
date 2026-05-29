@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+      <rect width="1000" height="1000" rx="72" fill="#05050a"/>
+      <g transform="translate(500 500)">
+        <text x="-362" y="-120" font-family="Georgia, serif" font-size="170" font-weight="700" fill="#44f3ff" opacity=".45" transform="skewX(-8)">COSWORLD</text>
+        <text x="-318" y="0" font-family="Georgia, serif" font-size="190" font-weight="700" fill="#7f61ff" opacity=".65" transform="skewX(-8)">COSWORLD</text>
+        <text x="-272" y="128" font-family="Georgia, serif" font-size="210" font-weight="700" fill="#ff63ef" opacity=".8" transform="skewX(-8)">COSWORLD</text>
+        <path d="M-400 190 Q0 255 400 190" fill="none" stroke="#3b4cff" stroke-width="10" opacity=".5"/>
+        <path d="M-370 -240 Q0 -310 370 -240" fill="none" stroke="#3b4cff" stroke-width="10" opacity=".35"/>
+      </g>
+    </svg>

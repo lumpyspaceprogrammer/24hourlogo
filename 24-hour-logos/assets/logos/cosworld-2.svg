@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+      <rect width="1000" height="1000" rx="72" fill="#05050a"/>
+      <defs><radialGradient id="orb" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#69f7ff"/><stop offset="1" stop-color="#2d2e8f"/></radialGradient></defs>
+      <g transform="translate(500 500)">
+        <circle r="210" fill="none" stroke="#5c4bff" stroke-width="12" opacity=".18"/>
+        <circle r="320" fill="none" stroke="#5c4bff" stroke-width="10" opacity=".08"/>
+        <circle r="110" fill="url(#orb)" opacity=".95"/>
+        <circle r="170" fill="none" stroke="#8efbff" stroke-width="3" stroke-dasharray="7 18" opacity=".9"/>
+        <g font-family="Georgia, serif" font-size="86" font-weight="700" fill="#4fd6ff" opacity=".9"><text x="-78" y="-245">COS</text><text x="192" y="-18" transform="rotate(90)">WORLD</text><text x="-82" y="278">COS</text><text x="-408" y="18" transform="rotate(-90)">WORLD</text></g>
+        <g fill="#fff" opacity=".75"><circle cx="0" cy="-290" r="8"/><circle cx="290" cy="0" r="8"/><circle cx="0" cy="290" r="8"/><circle cx="-290" cy="0" r="8"/></g>
+      </g>
+    </svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061b10"/><stop offset="1" stop-color="#0f1020"/></linearGradient>
+        <linearGradient id="bin" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7dff8c"/><stop offset="1" stop-color="#26c95f"/></linearGradient>
+      </defs>
+      <rect width="1000" height="1000" rx="72" fill="url(#bg)"/>
+      <text x="500" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" letter-spacing="6" fill="#8cff9d">E-WASTE</text>
+      <g transform="translate(500 640)">
+        <rect x="-128" y="-40" width="256" height="320" rx="28" fill="url(#bin)" stroke="#0a1d0d" stroke-width="12"/>
+        <rect x="-152" y="-82" width="304" height="54" rx="20" fill="#9cffad" stroke="#0a1d0d" stroke-width="12"/>
+        <path d="M-46 48l-44 76h35l-30 76 95-110h-42l30-42z" fill="#0a1d0d" opacity=".9"/>
+        <text x="0" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#08330f">E-WASTE</text>
+      </g>
+      <g stroke="#6dff8d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="#1b2235">
+        <g transform="translate(210 250)"><rect x="0" y="0" width="190" height="130" rx="20"/><circle cx="42" cy="140" r="12"/><circle cx="148" cy="140" r="12"/><animateTransform attributeName="transform" type="translate" values="210 250;330 450;450 610;500 700" dur="4s" repeatCount="indefinite"/></g>
+        <g transform="translate(520 180)"><rect x="0" y="0" width="220" height="150" rx="14"/><rect x="18" y="18" width="184" height="114" rx="10" fill="#0c1320"/><animateTransform attributeName="transform" type="translate" values="520 180;500 320;480 510;470 640" dur="3.4s" repeatCount="indefinite"/></g>
+        <g transform="translate(710 290)"><path d="M0 0h110l28 38-28 38H0z"/><circle cx="130" cy="38" r="22" fill="#f8d64e" stroke="#6dff8d"/><animateTransform attributeName="transform" type="translate" values="710 290;640 420;560 560;520 690" dur="4.6s" repeatCount="indefinite"/></g>
+      </g>
+      <g stroke="#7dff8c" stroke-width="8" opacity=".45"><path d="M150 820c110-80 180-110 350-110s240 30 350 110" fill="none"/><path d="M215 760c90-55 150-70 285-70s195 15 285 70" fill="none"/></g>
+    </svg>
